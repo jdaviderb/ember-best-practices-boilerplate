@@ -11,7 +11,8 @@
     "test": "tests"
   },
   "scripts": {
-    "build": "ember build",
+    "build": "ember build --prod",
+    "postinstall": "ember build --prod",
     "lint:hbs": "ember-template-lint .",
     "lint:js": "eslint .",
     "start": "ember serve",
@@ -55,5 +56,10 @@
   },
   "engines": {
     "node": "6.* || 8.* || >= 10.*"
+  },
+  "dependencies": {
+    "abortcontroller-polyfill": "^1.2.1",
+    "fastboot-app-server": "^1.1.2-beta.1",
+    "node-fetch": "^2.3.0"
   }
 }

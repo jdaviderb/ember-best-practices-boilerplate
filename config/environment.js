@@ -23,7 +23,7 @@ module.exports = function(environment) {
     },
 
     fastboot: {
-      hostWhitelist: [/^localhost:\d+$/]
+      hostWhitelist: ['ember-bests-practices.herokuapp.com', /^localhost:\d+$/]
     }
   };
 
