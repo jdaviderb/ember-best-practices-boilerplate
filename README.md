@@ -10,7 +10,8 @@
 
 - **Without jquery**
 - **Progressive Web Apps default**
-- **Internationalization Defautl**
+- **Internationalization defautl**
+- **Prettier default**
 - **Avoid promises with ember concurrency**
 - **Offline** availability without a network connection from the instant your users load the app
 
