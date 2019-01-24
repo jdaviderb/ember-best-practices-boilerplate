@@ -1,57 +1,26 @@
-# ember-bests-practices
+<div align="center"> <img width="200" src="https://cdn-images-1.medium.com/max/1600/1*--wRIhx_atl50C4NlkMY5Q.jpeg"></div>
+<div align="center">
+  <strong>An ember Boilerplate with the bests practices </strong><br>
+  <a href="https://ember-bests-practices.herokuapp.com/">https://ember-bests-practices.herokuapp.com/</a><br>
+  <img src="https://user-images.githubusercontent.com/4649902/51712776-dc9d6400-1ffd-11e9-95f9-3b204aab6476.png"><br>
+</div>
 
-This README outlines the details of collaborating on this Ember application.
-A short introduction of this app could easily go here.
 
-## Prerequisites
+# Features
 
-You will need the following things properly installed on your computer.
+- **Without jquery**
+- **Progressive Web Apps default**
+- **Internationalization Defautl**
+- **Avoid promises with ember concurrency**
+- **Offline** availability without a network connection from the instant your users load the app
 
-* [Git](https://git-scm.com/)
-* [Node.js](https://nodejs.org/) (with npm)
-* [Ember CLI](https://ember-cli.com/)
-* [Google Chrome](https://google.com/chrome/)
+# list of addons we are using in this project:
 
-## Installation
+- **ember-concurrency:** that makes it easy to write concise, robust, and beautiful asynchronous code.
+- **ember-cli-fastboot:** Server-side rendering for Ember.js apps
+- **ember-fetch:** fetch
+- **ember-intl:** Translate simple to complex messages
+- **ember-cli-dotenv** Dotenv for your ember app through ember-cli
+- **eslint-plugin-ember-best-practices** Static analysis tools for enforcing best practices in Ember
 
-* `git clone <repository-url>` this repository
-* `cd ember-bests-practices`
-* `npm install`
-
-## Running / Development
-
-* `ember serve`
-* Visit your app at [http://localhost:4200](http://localhost:4200).
-* Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
-
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint:hbs`
-* `npm run lint:js`
-* `npm run lint:js -- --fix`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-### Deploying
-
-Specify what it takes to deploy your app.
-
-## Further Reading / Useful Links
-
-* [ember.js](https://emberjs.com/)
-* [ember-cli](https://ember-cli.com/)
-* Development Browser Extensions
-  * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
-  * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+---
