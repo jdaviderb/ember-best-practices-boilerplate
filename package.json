@@ -47,6 +47,7 @@
     "ember-service-worker-asset-cache": "^0.6.4",
     "ember-service-worker-cache-fallback": "^0.6.2",
     "ember-service-worker-index": "^0.7.0",
+    "ember-service-worker-prember": "^0.4.0",
     "ember-source": "~3.6.0",
     "ember-web-app": "^3.0.0-beta.2",
     "ember-welcome-page": "^3.2.0",
@@ -55,6 +56,8 @@
     "eslint-plugin-ember-best-practices": "^1.1.1",
     "eslint-plugin-prettier": "^3.0.1",
     "loader.js": "^4.7.0",
+    "prember": "^1.0.2",
+    "prember-middleware": "^0.1.0",
     "prettier": "^1.16.1",
     "qunit-dom": "^0.8.0"
   },
