@@ -15,6 +15,7 @@
 - **Prettier default**
 - **Avoid promises with ember concurrency**
 - **Offline** availability without a network connection from the instant your users load the app
+- **Static** Server side render at build time, serve static
 
 # List of addons we are using in this project:
 
