@@ -20,10 +20,12 @@
 
 - **ember-concurrency:** that makes it easy to write concise, robust, and beautiful asynchronous code.
 - **ember-cli-fastboot:** Server-side rendering for Ember.js apps
+- **prember:** Use fastboot at build time to serve your app static
 - **ember-fetch:** fetch
 - **ember-intl:** Translate simple to complex messages
 - **ember-cli-dotenv** Dotenv for your ember app through ember-cli
 - **eslint-plugin-ember-best-practices** Static analysis tools for enforcing best practices in Ember
+
 
 # Screenshots
 
