@@ -4,9 +4,7 @@ module.exports = {
     ecmaVersion: 2017,
     sourceType: 'module'
   },
-  plugins: [
-    'ember'
-  ],
+  plugins: ['ember'],
   extends: [
     'eslint:recommended',
     'plugin:ember/recommended',
@@ -17,7 +15,7 @@ module.exports = {
     browser: true
   },
   rules: {
-    "prettier/prettier": ["error", { "singleQuote": true }]
+    'prettier/prettier': ['error', { singleQuote: true }]
   },
   overrides: [
     // node files

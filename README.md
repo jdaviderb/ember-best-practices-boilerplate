@@ -5,12 +5,13 @@
   <img src="https://user-images.githubusercontent.com/4649902/51712776-dc9d6400-1ffd-11e9-95f9-3b204aab6476.png"><br>
 </div>
 
+[![Build Status](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate.svg?branch=master)](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate)
 
 # Features
 
 - **Without jquery**
-- **Progressive Web Apps default**
-- **Internationalization defautl**
+- **Progressive Web App default**
+- **Internationalization default**
 - **Prettier default**
 - **Avoid promises with ember concurrency**
 - **Offline** availability without a network connection from the instant your users load the app
