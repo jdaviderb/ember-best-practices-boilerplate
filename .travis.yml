@@ -32,4 +32,4 @@ script:
   - COVERAGE=true ember test
 
 after_script:
-  - ./cc-test-reporter -t lcov -o coverage/lcov.info
+  - ./cc-test-reporter after-build --exit-code $TRAVIS_TEST_RESULT
