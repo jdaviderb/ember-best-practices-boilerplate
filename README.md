@@ -7,6 +7,7 @@
 
 [![Build Status](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate.svg?branch=master)](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate)
 
+<a href="https://codeclimate.com/github/jdaviderb/ember-best-practices-boilerplate/maintainability"><img src="https://api.codeclimate.com/v1/badges/e5b74ff40058904f3605/maintainability" /></a>
 
 # Quick start
 
