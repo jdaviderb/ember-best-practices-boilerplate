@@ -7,6 +7,7 @@
 
 [![Build Status](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate.svg?branch=master)](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate) [![Code Climate](https://api.codeclimate.com/v1/badges/e5b74ff40058904f3605/maintainability)](https://codeclimate.com/github/jdaviderb/ember-best-practices-boilerplate/maintainability) [![Test Coverage](https://api.codeclimate.com/v1/badges/e5b74ff40058904f3605/test_coverage)](https://codeclimate.com/github/jdaviderb/ember-best-practices-boilerplate/test_coverage)
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 # Quick start
 
 ```bash
