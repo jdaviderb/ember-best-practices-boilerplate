@@ -5,9 +5,8 @@
   <img src="https://user-images.githubusercontent.com/4649902/51712776-dc9d6400-1ffd-11e9-95f9-3b204aab6476.png"><br>
 </div>
 
-[![Build Status](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate.svg?branch=master)](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate)
+[![Build Status](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate.svg?branch=master)](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate) [![Code Climate](https://api.codeclimate.com/v1/badges/e5b74ff40058904f3605/maintainability)](https://codeclimate.com/github/jdaviderb/ember-best-practices-boilerplate/maintainability)
 
-<a href="https://codeclimate.com/github/jdaviderb/ember-best-practices-boilerplate/maintainability"><img src="https://api.codeclimate.com/v1/badges/e5b74ff40058904f3605/maintainability" /></a>
 
 # Quick start
 
