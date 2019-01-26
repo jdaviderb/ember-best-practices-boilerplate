@@ -7,6 +7,28 @@
 
 [![Build Status](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate.svg?branch=master)](https://travis-ci.org/jdaviderb/ember-best-practices-boilerplate)
 
+
+# Quick start
+
+```bash
+ git clone https://github.com/jdaviderb/ember-best-practices-boilerplate.git you-project
+ cd you-project
+ npm install
+ npm start
+```
+
+**with docker:**
+
+```
+  git clone https://github.com/jdaviderb/ember-best-practices-boilerplate.git you-project
+  cd you-project
+  docker-compose run node npm install
+  docker-compose up
+```
+
+# Deploy to production
+PENDING
+
 # Features
 
 - **Without jquery**
